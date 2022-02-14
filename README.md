@@ -4,6 +4,11 @@
 
 <br>
 
+## 💻 Projeto
+
+Rocketshoes (WEB) é aplicação feita utilizando ReactJS, que implementa o fluxo de carrinho de compras de um e-commerce.
+
+
 ## :camera: Demonstração
 
 ![gif](github/Rocketshoes.gif)
@@ -41,9 +46,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ✔️React-Toastify
 
 
-## 💻 Projeto
-
-Rocketshoes (WEB) é aplicação feita utilizando ReactJS, que implementa o fluxo de carrinho de compras de um e-commerce.
 
 ## ⚙ Configuração
 
